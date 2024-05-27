@@ -1,4 +1,4 @@
-<h1> Usagae Of Network Proxy </h1>
+<h1> Use Of Network Proxy </h1>
 
 
 <h3> Port Forwarding Proxy </h3>
